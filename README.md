@@ -96,39 +96,6 @@ index.html
 
 in any browser.
 
-🚀 Deployment
-
-You can deploy it using:
-
-GitHub Pages
-
-Go to Settings → Pages
-
-Select main branch
-
-Save
-Your site becomes live automatically!
-
-Netlify / Vercel
-
-Drag & drop folder
-
-Instant deployment
-
-Free custom domain support
-
-🔮 Future Enhancements
-
-🌙 Add Dark Mode
-
-✨ Add Scroll Reveal Animations
-
-🧪 Add a working Contact Form (Email API)
-
-🎭 Add animated background shapes
-
-📚 Add blog section (HTML/CSS/JS)
-
 👤 Author
 Chethan C Malli
 
