@@ -2,14 +2,14 @@
 
 A modern, responsive, and elegant personal portfolio + landing page built using HTML & CSS, showcasing my skills, projects, and experience as a Full Stack Developer & AI/ML Enthusiast.
 
-<p align="center"> <img src="https://img.shields.io/badge/PROJECT-PORTFOLIO-blue?style=for-the-badge"> <img src="https://img.shields.io/github/languages/top/Chethumalli/portfolio?style=for-the-badge&color=brightgreen"> <img src="https://img.shields.io/badge/STATUS-ACTIVE-success?style=for-the-badge"> </p>
+<p align="center"> <img src="/images/portfolio1.png"> <img src="/images/portfolio2.png">  </p>
 
 📸 Preview
-<p align="center"> <img src="assets/preview-hero.png" width="80%" alt="Landing Page Hero"> <br><em>Hero section with transparent overlapping profile photo</em> </p> <p align="center"> <img src="assets/preview-projects.png" width="80%" alt="Projects Section"> <br><em>Project cards with icons & grid layout</em> </p>
+<p align="center"> <img src="/images/landing1.png" width="80%" alt="Landing Page Hero"> <br><em>Hero section with transparent overlapping profile photo</em> </p> <p align="center"> <img src="/images/landing2.png" width="80%" alt="Projects Section"> <br><em>Project cards with icons & grid layout</em> </p>
 
 Add your own screenshots in the /assets folder and update paths above.
 
-🎯 Features
+<b>🎯 Features</b>
 ✨ Stunning Landing Page
 
 Large hero section with background image
