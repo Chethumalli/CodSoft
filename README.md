@@ -60,7 +60,7 @@ Clean, modern color palette
 | Google Fonts (Poppins) | Typography |
 | Shields.io | Readme badges |
 | GitHub Pages / Vercel | Deployment |
-
+<pre>
 📁 Repository Structure
 /
 ├── index.html          # Main landing page + portfolio
@@ -71,7 +71,7 @@ Clean, modern color palette
 │   ├── preview-hero.png
 │   └── preview-projects.png
 └── README.md
-
+</pre>
 🧩 Projects Included
 
 | Icon | Project | Link |
