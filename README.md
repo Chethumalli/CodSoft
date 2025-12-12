@@ -7,15 +7,15 @@ A modern, responsive, and elegant personal portfolio + landing page built using 
 📸 Preview
 <p align="center"> <img src="/images/landing1.png" width="80%" alt="Landing Page Hero"> <br><em>Hero section with transparent overlapping profile photo</em> </p> <p align="center"> <img src="/images/landing2.png" width="80%" alt="Projects Section"> <br><em>Project cards with icons & grid layout</em> </p>
 
-<b>🎯 Features
-✨ Stunning Landing Page</b>
+<h3><b>🎯 Features
+✨ Stunning Landing Page</b></h3>
 
 ✔ Large hero section with background image<br>
 ✔ Overlapping transparent profile cutout<br>
 ✔ Animated buttons (Hire Me / Resume)<br>
 ✔ Key highlights<br>
 
-<b>🎨 Beautiful Portfolio UI</b>
+<h3><b>🎨 Beautiful Portfolio UI</b></h3>
 
 ✔ Modern About Me section<br>
 ✔ Skills grid (2-column layout)<br>
@@ -23,20 +23,20 @@ A modern, responsive, and elegant personal portfolio + landing page built using 
 ✔ Contact section with action buttons<br>
 ✔ Footer with social links<br>
 
-<b>📱 Fully Responsive</b>
+<h3><b>📱 Fully Responsive</b></h3>
 
 ✔ Mobile-first layout<br>
 ✔ Auto-adjusting grids<br>
 ✔ Smooth content flow<br>
 
-<b>⚡ Optimized UI Elements</b>
+<h3><b>⚡ Optimized UI Elements</b></h3>
 
 ✔ Shadowed cards<br>
 ✔ Accent border highlights<br>
 ✔ Hover animations<br>
 ✔ Clean, modern color palette<br>
 
-🛠️ Tech Stack
+<h3><b>🛠️ Tech Stack</b></h3>
 <p align="center"> <img src="https://skillicons.dev/icons?i=html,css,github" height="70"> </p>
 
 | Technology | Purpose |
@@ -47,7 +47,7 @@ A modern, responsive, and elegant personal portfolio + landing page built using 
 | Shields.io | Readme badges |
 | GitHub Pages / Vercel | Deployment |
 <pre>
-<b>📁 Repository Structure</b>
+<h3><b>📁 Repository Structure</b></h3>
 /
 ├── index.html          # Main landing page + portfolio
 ├── style.css           # Complete styling file
@@ -58,7 +58,7 @@ A modern, responsive, and elegant personal portfolio + landing page built using 
 │   └── preview-projects.png
 └── README.md
 </pre>
-<b>🧩 Projects Included</b>
+<h3><b>🧩 Projects Included</b></h3>
 
 | Icon | Project | Link |
 |------|---------|------|
@@ -68,7 +68,7 @@ A modern, responsive, and elegant personal portfolio + landing page built using 
 | 💼 | CodSoft Portfolio | https://github.com/Chethumalli/CodSoft |
 
 <b>📦 How to Run the Project</b>
-1️⃣ Clone the repository
+<b>1️⃣ Clone the repository</b>
 git clone https://github.com/Chethumalli/Codsoft.git
 
 2️⃣ Navigate into the folder
@@ -82,7 +82,7 @@ index.html
 
 in any browser.
 
-👤 Author
+<h3>👤 Author</h3>
 Chethan C Malli
 
 📍 India
@@ -93,11 +93,11 @@ Chethan C Malli
 
 <p align="center"> <img src="https://img.shields.io/badge/BUILT%20WITH-LOVE ❤️-red?style=for-the-badge"> </p>
 
-⭐ Support the Project
+<h3>⭐ Support the Project</h3>
 
 If you like this project:
 
 👉 Star the repository ⭐
 👉 Share it with friends
 
-Your support motivates me to build more cool projects!
+Your support motivates me to build more cool projects!!!
