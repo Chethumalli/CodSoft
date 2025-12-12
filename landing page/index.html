@@ -1,48 +1,201 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Simple Landing Page</title>
-    <link rel="stylesheet" href="style.css">
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Chethan C Malli — Portfolio</title>
+
+  <!-- Google font -->
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700&display=swap" rel="stylesheet">
+
+  <!-- Replace with your own CSS file name if desired -->
+  <link rel="stylesheet" href="style.css">
+
+  <!-- SEO -->
+  <meta name="description" content="Chethan C Malli — Full stack developer. Portfolio, projects, skills and contact.">
 </head>
 <body>
 
-    <!-- Header Section -->
-    <header>
-        <div class="logo">MyLanding</div>
-        <nav>
-            <a href="#">Home</a>
-            <a href="#">Features</a>
-            <a href="#">About</a>
-            <a href="#">Contact</a>
-        </nav>
-    </header>
+  <!-- NAV -->
+  <header class="site-header">
+    <div class="container header-inner">
+      <div class="logo">Chethan <span class="accent">Malli</span></div>
 
-    <!-- Hero Section -->
-    <section class="hero">
-        <div class="hero-content">
-            <h1>Create Stunning Landing Pages</h1>
-            <p>Use your creativity to design a beautiful, modern, and responsive landing page using HTML & CSS.</p>
-            <button class="cta-btn">Get Started</button>
+      <nav class="nav">
+        <a href="#home">Home</a>
+        <a href="#about">About</a>
+        <a href="#skills">Skills</a>
+        <a href="#projects">Projects</a>
+        <a href="#contact">Contact</a>
+      </nav>
+    </div>
+  </header>
+
+  <!-- HERO -->
+  <section id="home" class="hero">
+    <div class="container hero-grid">
+      <div class="hero-left">
+        <h1 class="hero-title">Hi, I'm <span>Chethan C Malli</span></h1>
+        <p class="hero-sub">
+          Full-Stack Developer • AI/ML Enthusiast • Building real-world apps and delightful interfaces.
+        </p>
+
+        <div class="hero-ctas">
+          <a class="btn-primary" href="#contact">Hire Me</a>
+          <a class="btn-outline" href="#" download="Chethan_C_Malli_Resume.pdf">Download Resume</a>
         </div>
-        <img src="https://via.placeholder.com/400" alt="Landing Illustration">
-    </section>
 
-    <!-- Features Section -->
-    <section class="features">
-        <h2>Features</h2>
-        <div class="feature-grid">
-            <div class="feature-card">⚡ Fast</div>
-            <div class="feature-card">🎨 Beautiful UI</div>
-            <div class="feature-card">📱 Responsive</div>
+        <ul class="hero-highlights">
+          <li>✅ 3rd year CSE/AIML student</li>
+          <li>✅ Expertise in Web Development & AI/ML</li>
+          <li>✅ Projects: Face Recognition, ClientX, CodSoft</li>
+        </ul>
+      </div>
+
+      <!-- Right: large decorative image + overlapping cutout -->
+      <div class="hero-right">
+        <!-- background photo -->
+        <img class="hero-bg" src="https://images.unsplash.com/photo-1516251193007-45ef944ab0c6?auto=format&fit=crop&w=1200&q=60" alt="hero background">
+        <!-- overlapping cutout png (use your transparent cutout here) -->
+        <img class="profile-cutout" src="https://images.unsplash.com/photo-1544005313-94ddf0286df2?auto=format&fit=crop&w=800&q=80" alt="profile">
+      </div>
+    </div>
+  </section>
+
+  <!-- ABOUT -->
+  <section id="about" class="about">
+    <div class="container about-grid">
+      <div class="about-card">
+        <h2>About Me</h2>
+        <p>
+          I am a professional developer and ICT degree holder with experience teaching and building web applications.
+          I love combining UI design with backend logic and exploring ML to add intelligence to apps.
+        </p>
+
+        <div class="small-stats">
+          <div><strong>5+</strong> projects</div>
+          <div><strong>3</strong> years study</div>
+          <div><strong>100%</strong> curious</div>
         </div>
-    </section>
 
-    <!-- Footer -->
-    <footer>
-        <p>© 2025 MyLanding. All rights reserved.</p>
-    </footer>
+        <a class="btn-primary small" href="#projects">View Projects</a>
+      </div>
+
+      <div class="about-image">
+        <!-- rounded image / replace with your transparent cutout for a similar style -->
+        <img src="https://images.unsplash.com/photo-1544005313-94ddf0286df2?auto=format&fit=crop&w=800&q=80" alt="profile big">
+      </div>
+    </div>
+  </section>
+
+  <!-- SKILLS -->
+  <section id="skills" class="section-light">
+    <div class="container">
+      <h2 class="section-title">Skills</h2>
+
+      <div class="grid-2">
+        <div class="skill-card">
+          <span class="skill-icon">⚡</span>
+          <div class="skill-body">HTML / CSS / JavaScript</div>
+        </div>
+
+        <div class="skill-card">
+          <span class="skill-icon">💻</span>
+          <div class="skill-body">Full Stack Web Development</div>
+        </div>
+
+        <div class="skill-card">
+          <span class="skill-icon">🐍</span>
+          <div class="skill-body">Python & Java</div>
+        </div>
+
+        <div class="skill-card">
+          <span class="skill-icon">🗄️</span>
+          <div class="skill-body">Database Management</div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- PROJECTS -->
+  <section id="projects" class="section-white">
+    <div class="container">
+      <h2 class="section-title">Projects</h2>
+
+      <div class="projects-grid">
+        <div class="project-card">
+          <span class="project-icon">🎨</span>
+          <div class="project-meta">
+            <div class="project-title">Portfolio Website</div>
+            <div class="project-links">
+              <a href="#" target="_blank">Live</a>
+              <!-- you can add GitHub link -->
+            </div>
+          </div>
+        </div>
+
+        <div class="project-card">
+          <span class="project-icon">🧠</span>
+          <div class="project-meta">
+            <div class="project-title">
+              <a href="https://github.com/Chethumalli/face-recognition-attendance-system" target="_blank">
+                Face Recognition Attendance System
+              </a>
+            </div>
+            <div class="project-links"><a href="https://github.com/Chethumalli/face-recognition-attendance-system" target="_blank">Source</a></div>
+          </div>
+        </div>
+
+        <div class="project-card">
+          <span class="project-icon">📱</span>
+          <div class="project-meta">
+            <div class="project-title"><a href="https://clientx.tech" target="_blank">ClientX</a></div>
+            <div class="project-links"><a href="https://clientx.tech" target="_blank">Live</a></div>
+          </div>
+        </div>
+
+        <div class="project-card">
+          <span class="project-icon">💼</span>
+          <div class="project-meta">
+            <div class="project-title"><a href="https://github.com/Chethumalli/CodSoft" target="_blank">CodSoft Portfolio</a></div>
+            <div class="project-links"><a href="https://github.com/Chethumalli/CodSoft" target="_blank">Source</a></div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- CONTACT -->
+  <section id="contact" class="section-dark">
+    <div class="container contact-grid">
+      <div>
+        <h2>Contact</h2>
+        <p class="contact-text">Email: <a href="mailto:chethumalli13@gmail.com">chethumalli13@gmail.com</a></p>
+        <p class="contact-text">Phone: <a href="tel:+919483606519">+91 9483606519</a></p>
+
+        <div style="margin-top:18px;">
+          <a class="btn-primary" href="mailto:chethumalli13@gmail.com">Email Me</a>
+          <a class="btn-outline" href="tel:+919483606519">Call</a>
+        </div>
+      </div>
+
+      <div class="contact-card-map">
+        <!-- decorative placeholder; replace with real embed or screenshot -->
+        <img src="https://images.unsplash.com/photo-1520975911498-8f4f6c6ecf7d?auto=format&fit=crop&w=900&q=60" alt="contact card">
+      </div>
+    </div>
+  </section>
+
+  <!-- FOOTER -->
+  <footer class="site-footer">
+    <div class="container footer-inner">
+      <div>© 2025 Chethan C Malli</div>
+      <div class="social-links">
+        <a href="https://github.com/Chethumalli" target="_blank">GitHub</a>
+        <a href="https://www.linkedin.com" target="_blank">LinkedIn</a>
+      </div>
+    </div>
+  </footer>
 
 </body>
 </html>
