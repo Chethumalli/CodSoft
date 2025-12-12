@@ -10,31 +10,31 @@ A modern, responsive, and elegant personal portfolio + landing page built using 
 <b>🎯 Features
 ✨ Stunning Landing Page</b>
 
-✔ Large hero section with background image<b>
-✔ Overlapping transparent profile cutout<b>
-✔ Animated buttons (Hire Me / Resume)<b>
-✔ Key highlights<b>
+✔ Large hero section with background image<br>
+✔ Overlapping transparent profile cutout<br>
+✔ Animated buttons (Hire Me / Resume)<br>
+✔ Key highlights<br>
 
 <b>🎨 Beautiful Portfolio UI</b>
 
-✔ Modern About Me section<b>
-✔ Skills grid (2-column layout)<b>
-✔ Projects with icons + GitHub/demo links<b>
-✔ Contact section with action buttons<b>
-✔ Footer with social links<b>
+✔ Modern About Me section<br>
+✔ Skills grid (2-column layout)<br>
+✔ Projects with icons + GitHub/demo links<br>
+✔ Contact section with action buttons<br>
+✔ Footer with social links<br>
 
 <b>📱 Fully Responsive</b>
 
-✔ Mobile-first layout<b>
-✔ Auto-adjusting grids<b>
-✔ Smooth content flow<b>
+✔ Mobile-first layout<br>
+✔ Auto-adjusting grids<br>
+✔ Smooth content flow<br>
 
 <b>⚡ Optimized UI Elements</b>
 
-✔ Shadowed cards<b>
-✔ Accent border highlights<b>
-✔ Hover animations<b>
-✔ Clean, modern color palette<b>
+✔ Shadowed cards<br>
+✔ Accent border highlights<br>
+✔ Hover animations<br>
+✔ Clean, modern color palette<br>
 
 🛠️ Tech Stack
 <p align="center"> <img src="https://skillicons.dev/icons?i=html,css,github" height="70"> </p>
