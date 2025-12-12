@@ -7,48 +7,34 @@ A modern, responsive, and elegant personal portfolio + landing page built using 
 📸 Preview
 <p align="center"> <img src="/images/landing1.png" width="80%" alt="Landing Page Hero"> <br><em>Hero section with transparent overlapping profile photo</em> </p> <p align="center"> <img src="/images/landing2.png" width="80%" alt="Projects Section"> <br><em>Project cards with icons & grid layout</em> </p>
 
-Add your own screenshots in the /assets folder and update paths above.
+<b>🎯 Features
+✨ Stunning Landing Page</b>
 
-<b>🎯 Features</b>
-✨ Stunning Landing Page
+✔ Large hero section with background image
+✔ Overlapping transparent profile cutout
+✔ Animated buttons (Hire Me / Resume)
+✔ Key highlights
 
-Large hero section with background image
+<b>🎨 Beautiful Portfolio UI</b>
 
-Overlapping transparent profile cutout
+✔ Modern About Me section
+✔ Skills grid (2-column layout)
+✔ Projects with icons + GitHub/demo links
+✔ Contact section with action buttons
+✔ Footer with social links
 
-Animated buttons (Hire Me / Resume)
+<b>📱 Fully Responsive</b>
 
-Key highlights
+✔ Mobile-first layout
+✔ Auto-adjusting grids
+✔ Smooth content flow
 
-🎨 Beautiful Portfolio UI
+<b>⚡ Optimized UI Elements</b>
 
-Modern About Me section
-
-Skills grid (2-column layout)
-
-Projects with icons + GitHub/demo links
-
-Contact section with action buttons
-
-Footer with social links
-
-📱 Fully Responsive
-
-Mobile-first layout
-
-Auto-adjusting grids
-
-Smooth content flow
-
-⚡ Optimized UI Elements
-
-Shadowed cards
-
-Accent border highlights
-
-Hover animations
-
-Clean, modern color palette
+✔ Shadowed cards
+✔ Accent border highlights
+✔ Hover animations
+✔ Clean, modern color palette
 
 🛠️ Tech Stack
 <p align="center"> <img src="https://skillicons.dev/icons?i=html,css,github" height="70"> </p>
@@ -61,7 +47,7 @@ Clean, modern color palette
 | Shields.io | Readme badges |
 | GitHub Pages / Vercel | Deployment |
 <pre>
-📁 Repository Structure
+<b>📁 Repository Structure</b>
 /
 ├── index.html          # Main landing page + portfolio
 ├── style.css           # Complete styling file
@@ -72,7 +58,7 @@ Clean, modern color palette
 │   └── preview-projects.png
 └── README.md
 </pre>
-🧩 Projects Included
+<b>🧩 Projects Included</b>
 
 | Icon | Project | Link |
 |------|---------|------|
@@ -81,7 +67,7 @@ Clean, modern color palette
 | 📱 | ClientX | https://clientx.tech |
 | 💼 | CodSoft Portfolio | https://github.com/Chethumalli/CodSoft |
 
-📦 How to Run the Project
+<b>📦 How to Run the Project</b>
 1️⃣ Clone the repository
 git clone https://github.com/Chethumalli/Codsoft.git
 
