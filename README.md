@@ -1,4 +1,4 @@
-🚀 Chethan C Malli — Portfolio & Landing Page
+<h1 style="color-blue">🚀 Chethan C Malli — Portfolio & Landing Page</h1>
 
 A modern, responsive, and elegant personal portfolio + landing page built using HTML & CSS, showcasing my skills, projects, and experience as a Full Stack Developer & AI/ML Enthusiast.
 
@@ -10,31 +10,31 @@ A modern, responsive, and elegant personal portfolio + landing page built using 
 <b>🎯 Features
 ✨ Stunning Landing Page</b>
 
-✔ Large hero section with background image
-✔ Overlapping transparent profile cutout
-✔ Animated buttons (Hire Me / Resume)
-✔ Key highlights
+✔ Large hero section with background image<b>
+✔ Overlapping transparent profile cutout<b>
+✔ Animated buttons (Hire Me / Resume)<b>
+✔ Key highlights<b>
 
 <b>🎨 Beautiful Portfolio UI</b>
 
-✔ Modern About Me section
-✔ Skills grid (2-column layout)
-✔ Projects with icons + GitHub/demo links
-✔ Contact section with action buttons
-✔ Footer with social links
+✔ Modern About Me section<b>
+✔ Skills grid (2-column layout)<b>
+✔ Projects with icons + GitHub/demo links<b>
+✔ Contact section with action buttons<b>
+✔ Footer with social links<b>
 
 <b>📱 Fully Responsive</b>
 
-✔ Mobile-first layout
-✔ Auto-adjusting grids
-✔ Smooth content flow
+✔ Mobile-first layout<b>
+✔ Auto-adjusting grids<b>
+✔ Smooth content flow<b>
 
 <b>⚡ Optimized UI Elements</b>
 
-✔ Shadowed cards
-✔ Accent border highlights
-✔ Hover animations
-✔ Clean, modern color palette
+✔ Shadowed cards<b>
+✔ Accent border highlights<b>
+✔ Hover animations<b>
+✔ Clean, modern color palette<b>
 
 🛠️ Tech Stack
 <p align="center"> <img src="https://skillicons.dev/icons?i=html,css,github" height="70"> </p>
