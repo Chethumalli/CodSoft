@@ -46,8 +46,9 @@ A modern, responsive, and elegant personal portfolio + landing page built using 
 | Google Fonts (Poppins) | Typography |
 | Shields.io | Readme badges |
 | GitHub Pages / Vercel | Deployment |
-<pre>
+
 <h3><b>📁 Repository Structure</b></h3>
+<pre>
 /
 ├── index.html          # Main landing page + portfolio
 ├── style.css           # Complete styling file
