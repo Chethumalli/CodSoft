@@ -19,7 +19,7 @@ This repository showcases **three core frontend tasks** developed using **HTML, 
 </p>
 
 <p align="center">
-  <img src="/images/simplecalci.png" width="50%" height="40%" alt="simple calculator Hero Section" />
+  <img src="/images/simplecalci.png" width="40%" height="30%" alt="simple calculator Hero Section" />
 </p>
 
 
