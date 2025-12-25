@@ -101,7 +101,7 @@ An interactive **calculator application** built using **HTML, CSS, and JavaScrip
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,github" height="70" />
 </p>
-
+<pre>
 | Technology | Purpose |
 |----------|---------|
 | HTML5 | Structure |
@@ -110,18 +110,18 @@ An interactive **calculator application** built using **HTML, CSS, and JavaScrip
 | Google Fonts | Typography |
 | GitHub | Version control |
 | GitHub Pages | Deployment |
-
+</pre>
 ---
 
 ## 📁 Repository Structure
-
+<pre>
 CodSoft/
 ├── TASK-1/ portfolio
 ├── TASK-2/ landing page
 ├── TASK-3/ SIMPLE CALCULATOR
 ├── images/
 └── README.md
-
+</pre>
 
 ---
 
@@ -148,7 +148,7 @@ Chethan C Malli
 📞 Phone: +91 9483606519
 🔗 GitHub: https://github.com/Chethumalli
 
-<p align="center"> <img src="https://img.shields.io/badge/BUILT%20WITH-LOVE ❤️-red?style=for-the-badge" /> </p>
+<p align="center"> <a href="https://github.com/Chethumalli/CodSoft"><img src="https://img.shields.io/badge/BUILT%20WITH-LOVE-red?style=for-the-badge" /></a></p>
 ⭐ Support
 
 If you like this project:
