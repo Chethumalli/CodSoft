@@ -1,0 +1,300 @@
+/* --- 1. Global Styles and Variables --- */
+:root {
+    --color-dark-primary: #0a0a0a; /* Main background color (near black) */
+    --color-dark-secondary: #1a1a1a; /* Darker grey for cards */
+    --color-accent: #ff7800; /* Bright Orange */
+    --color-text-light: #ffffff;
+    --color-text-faded: #a0a0a0;
+    --font-main: 'Inter', sans-serif;
+}
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: var(--font-main);
+    background-color: var(--color-dark-primary);
+    color: var(--color-text-light);
+    line-height: 1.6;
+    min-height: 100vh;
+}
+
+/* Base Headings */
+h1, h2, h3 {
+    font-weight: 900;
+    line-height: 1.1;
+}
+
+/* Buttons and Links */
+.btn {
+    padding: 12px 25px;
+    border-radius: 4px;
+    text-decoration: none;
+    font-weight: 700;
+    cursor: pointer;
+    transition: all 0.3s;
+    border: 2px solid transparent;
+    display: inline-block;
+}
+
+.primary-btn {
+    background-color: var(--color-accent);
+    color: var(--color-dark-primary);
+    border-color: var(--color-accent);
+}
+
+.primary-btn:hover {
+    background-color: #ff9133;
+}
+
+.primary-link {
+    background-color: transparent;
+    color: var(--color-accent);
+    border-color: var(--color-accent);
+}
+
+.primary-link:hover {
+    background-color: var(--color-accent);
+    color: var(--color-dark-primary);
+}
+
+.secondary-btn {
+    background-color: transparent;
+    color: var(--color-text-light);
+    border: 1px solid var(--color-text-faded);
+    padding: 8px 18px;
+    font-weight: 500;
+}
+
+.secondary-btn:hover {
+    border-color: var(--color-accent);
+    color: var(--color-accent);
+}
+
+/* --- 2. Navigation Bar --- */
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 80px;
+    position: sticky;
+    top: 0;
+    z-index: 100;
+    background-color: var(--color-dark-primary);
+    border-bottom: 1px solid rgba(255, 255, 255, 0.05);
+}
+
+.logo {
+    font-size: 1.8rem;
+    font-weight: 900;
+    color: var(--color-accent);
+}
+
+.nav-links a {
+    color: var(--color-text-faded);
+    text-decoration: none;
+    margin-left: 30px;
+    font-weight: 500;
+}
+
+.nav-links a:hover {
+    color: var(--color-text-light);
+}
+
+/* --- 3. Hero Section --- */
+.hero-section {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 100px 80px;
+    max-width: 1400px;
+    margin: 0 auto;
+}
+
+.hero-content {
+    max-width: 600px;
+}
+
+.tagline-small {
+    color: var(--color-text-faded);
+    font-size: 0.9rem;
+    letter-spacing: 2px;
+    margin-bottom: 10px;
+}
+
+h1 {
+    font-size: 3.8rem;
+    margin-bottom: 20px;
+}
+
+h1 strong {
+    color: var(--color-accent);
+}
+
+.description {
+    color: var(--color-text-faded);
+    font-size: 1.1rem;
+    margin-bottom: 40px;
+}
+
+.cta-group a {
+    margin-right: 15px;
+}
+
+/* Robot Mascot Styling */
+.hero-image-container {
+    position: relative;
+    text-align: center;
+    padding: 20px;
+}
+
+.mascot-img {
+    width: 450px; /* Placeholder image width */
+    height: auto;
+    display: block;
+    margin: 0 auto;
+    filter: drop-shadow(0 0 10px rgba(255, 120, 0, 0.5));
+}
+
+.hello-bubble {
+    position: absolute;
+    top: 20%;
+    right: 10%;
+    background-color: var(--color-text-light);
+    color: var(--color-dark-primary);
+    padding: 8px 15px;
+    border-radius: 20px 20px 20px 0;
+    font-weight: 700;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+/* --- 4. Why Use CLIENT Section (Features) --- */
+.why-client-section {
+    padding: 80px 80px;
+    text-align: center;
+    max-width: 1400px;
+    margin: 0 auto;
+}
+
+h2 {
+    font-size: 2.5rem;
+    margin-bottom: 50px;
+}
+
+.features-grid {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 30px;
+}
+
+.feature-card {
+    background-color: var(--color-dark-secondary);
+    padding: 25px;
+    border-radius: 8px;
+    text-align: left;
+    height: 100%;
+    transition: transform 0.3s, box-shadow 0.3s;
+}
+
+.feature-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.5);
+}
+
+.icon-box {
+    display: flex;
+    align-items: center;
+    margin-bottom: 15px;
+}
+
+.icon-box img {
+    width: 40px;
+    height: 40px;
+    margin-right: 10px;
+    /* In a real project, these would be high-quality SVG/PNG icons */
+}
+
+.caption {
+    font-weight: 700;
+    font-size: 1.1rem;
+    color: var(--color-accent);
+}
+
+.card-text {
+    color: var(--color-text-faded);
+    font-size: 0.95rem;
+}
+
+
+/* --- 5. Footer --- */
+.footer {
+    text-align: center;
+    padding: 30px 0;
+    color: var(--color-text-faded);
+    font-size: 0.9rem;
+    border-top: 1px solid rgba(255, 255, 255, 0.05);
+    margin-top: 40px;
+}
+
+/* --- 6. Responsiveness --- */
+@media (max-width: 1200px) {
+    .features-grid {
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
+
+@media (max-width: 900px) {
+    .navbar, .hero-section, .why-zapt-section {
+        padding: 20px 40px;
+    }
+    
+    .hero-section {
+        flex-direction: column;
+        text-align: center;
+    }
+    
+    .hero-content {
+        max-width: 100%;
+        margin-bottom: 40px;
+    }
+    
+    h1 {
+        font-size: 3rem;
+    }
+    
+    .hero-image-container {
+        order: -1; /* Move mascot above text on mobile */
+    }
+
+    .hello-bubble {
+        right: 20%;
+        top: 60%;
+    }
+}
+
+@media (max-width: 600px) {
+    .navbar {
+        padding: 15px 20px;
+    }
+    .nav-links {
+        display: none; /* Hide secondary navigation links */
+    }
+    h1 {
+        font-size: 2.5rem;
+    }
+    .features-grid {
+        grid-template-columns: 1fr;
+    }
+    .cta-group {
+        display: flex;
+        flex-direction: column;
+        gap: 15px;
+    }
+    .cta-group a {
+        margin: 0;
+        width: 100%;
+    }
+}

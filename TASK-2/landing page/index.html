@@ -1,199 +1,88 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="utf-8" />
-  <meta name="viewport" content="width=device-width,initial-scale=1" />
-  <title>Chethan C Malli — Landingpage</title>
-
-  <!-- Google font -->
-  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700&display=swap" rel="stylesheet">
-
-  <link rel="stylesheet" href="style.css">
-
-  <!-- SEO -->
-  <meta name="description" content="Chethan C Malli — Full stack developer. Portfolio, projects, skills and contact.">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CLIENTX</title>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;700;800;900&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="styles.css"> <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css"> 
 </head>
 <body>
 
-  <!-- NAV -->
-  <header class="site-header">
-    <div class="container header-inner">
-      <div class="logo">Chethan <span class="accent">Malli</span></div>
-
-      <nav class="nav">
-        <a href="#home">Home</a>
-        <a href="#about">About</a>
-        <a href="#skills">Skills</a>
-        <a href="#projects">Projects</a>
-        <a href="#contact">Contact</a>
-      </nav>
-    </div>
-  </header>
-
-  <!-- HERO -->
-  <section id="home" class="hero">
-    <div class="container hero-grid">
-      <div class="hero-left">
-        <h1 class="hero-title">Hi, I'm <span>Chethan C Malli</span></h1>
-        <p class="hero-sub">
-          Full-Stack Developer • AI/ML Enthusiast • Building real-world apps and delightful interfaces.
-        </p>
-
-        <div class="hero-ctas">
-          <a class="btn-primary" href="#contact">Hire Me</a>
-          <a class="btn-outline" href="assets/RESUME.pdf" download="Chethan_C_Malli_Resume.pdf">Download Resume</a>
+    <header class="navbar">
+        <div class="logo">CLIENTX</div>
+        <nav class="nav-links">
+            <a href="#features">Features</a>
+            <a href="#howitworks">How it works</a>
+        </nav>
+        <div class="auth-buttons">
+            <a href="#login" class="btn secondary-btn">Log in</a>
         </div>
+    </header>
 
-        <ul class="hero-highlights">
-          <li>✅ 3rd year CSE/AIML student</li>
-          <li>✅ Expertise in Web Development & AI/ML</li>
-          <li>✅ Projects: Face Recognition, ClientX, CodSoft</li>
-        </ul>
-      </div>
-
-      <!-- Right: large decorative image + overlapping cutout -->
-      <div class="hero-right">
-        <!-- background photo -->
-        <img class="hero-bg" src="assets/img.png" alt="hero background">
-        <!-- overlapping cutout png -->
-        <img class="profile-cutout" src="assets/image.png" alt="profile">
-      </div>
-    </div>
-  </section>
-
-  <!-- ABOUT -->
-  <section id="about" class="about">
-    <div class="container about-grid">
-      <div class="about-card">
-        <h2>About Me</h2>
-        <p>
-          🌱 Right now, I'm deepening my knowledge in:<br>
-                            
-            🤖 Machine Learning & Deep Learning<br>
-            🧠 Neural Networks and Model Deployment<br>
-            🌐 Full-Stack Web Development<br>
-            ⚙️ Modern frameworks, automation & cloud workflows.<br>
-        </p>
-
-        <div class="small-stats">
-          <div><strong>5+</strong> projects</div>
-          <div><strong>3</strong> years study</div>
-          <div><strong>100%</strong> curious</div>
-        </div>
-
-        <a class="btn-primary small" href="#projects">View Projects</a>
-      </div>
-
-      <div class="about-image">
-        <!-- rounded image-->
-        <img src="assets/profile.jpeg" alt="profile big">
-      </div>
-    </div>
-  </section>
-
-  <!-- SKILLS -->
-  <section id="skills" class="section-light">
-    <div class="container">
-      <h2 class="section-title">Skills</h2>
-
-      <div class="grid-2">
-        <div class="skill-card">
-          <span class="skill-icon">⚡</span>
-          <div class="skill-body">HTML / CSS / JavaScript</div>
-        </div>
-
-        <div class="skill-card">
-          <span class="skill-icon">💻</span>
-          <div class="skill-body">Full Stack Web Development</div>
-        </div>
-
-        <div class="skill-card">
-          <span class="skill-icon">🐍</span>
-          <div class="skill-body">Python & Java</div>
-        </div>
-
-        <div class="skill-card">
-          <span class="skill-icon">🗄️</span>
-          <div class="skill-body">Database Management</div>
-        </div>
-      </div>
-    </div>
-  </section>
-
-  <!-- PROJECTS -->
-  <section id="projects" class="section-white">
-    <div class="container">
-      <h2 class="section-title">Projects</h2>
-
-      <div class="projects-grid">
-        <div class="project-card">
-          <span class="project-icon">🎨</span>
-          <div class="project-meta">
-            <div class="project-title">Portfolio Website</div>
-            <div class="project-links">
-              <a href="#" target="_blank">Live</a>
+    <main class="hero-section">
+        <div class="hero-content">
+            <p class="tagline-small">WELCOME TO CLIENTX</p>
+            <h1>Organize work. Collaborate faster. Delight clients</h1>
+            <p class="description">
+                ClientX unifies tasks, chat, invoicing, and contracts in a single, powerful workspace so your team can ship more and spend less time juggling tools.</p>
+            <div class="cta-group">
+                <a href="#learn" class="btn primary-link">Create a new workspace</a>
+                <a href="#start" class="btn primary-btn">I already have a workspace</a>
             </div>
-          </div>
         </div>
 
-        <div class="project-card">
-          <span class="project-icon">🧠</span>
-          <div class="project-meta">
-            <div class="project-title">
-              <a href="https://github.com/Chethumalli/face-recognition-attendance-system" target="_blank">
-                Face Recognition Attendance System
-              </a>
+        <div class="hero-image-container">
+            <img src="assests/image.png" class="mascot-img large-mascot">
+            <span class="hello-bubble">Hello!</span>
+        </div>
+    </main>
+
+    <section class="why-client-section">
+        <h2>Why Use CLIENTX</h2>
+        <div class="features-grid">
+            <div class="feature-card">
+                <div class="icon-box">
+                    <img src="assests/task.png" alt="task Icon">
+                    <p class="caption">Tasks & Projects</p>
+                </div>
+                <p class="card-text">
+                    Organize work with tasks, projects, and timelines that keep everyone aligned
+                </p>
             </div>
-            <div class="project-links"><a href="https://github.com/Chethumalli/face-recognition-attendance-system" target="_blank">Source</a></div>
-          </div>
+
+            <div class="feature-card">
+                <div class="icon-box">
+                    <img src="assests/ai.png" alt="ai Icon">
+                    <p class="caption">Team & AI Chat</p>
+                </div>
+                <p class="card-text">
+                   Collaborate in real-time with your team and get instant AI assistancen</p>
+            </div>
+            
+            <div class="feature-card">
+                <div class="icon-box">
+                    <img src="assests/pg.png">
+                    <p class="caption">Invoices & Contracts</p>
+                </div>
+                <p class="card-text">
+                    Create professional invoices and manage contracts all in one place</p>
+            </div>
+
+            <div class="feature-card">
+                <div class="icon-box">
+                    <img src="assests/ws.png">
+                    <p class="caption">Workspace Setting</p>
+                </div>
+                <p class="card-text">
+                    Control permissions, manage members, and customize your workspace</p>
+            </div>
         </div>
+    </section>
 
-        <div class="project-card">
-          <span class="project-icon">📱</span>
-          <div class="project-meta">
-            <div class="project-title"><a href="https://clientx.tech" target="_blank">ClientX</a></div>
-            <div class="project-links"><a href="https://clientx.tech" target="_blank">Live</a></div>
-          </div>
-        </div>
-
-        <div class="project-card">
-          <span class="project-icon">💼</span>
-          <div class="project-meta">
-            <div class="project-title"><a href="https://github.com/Chethumalli/CodSoft" target="_blank">CodSoft Portfolio</a></div>
-            <div class="project-links"><a href="https://github.com/Chethumalli/CodSoft" target="_blank">Source</a></div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </section>
-
-  <!-- CONTACT -->
-  <section id="contact" class="section-dark">
-    <div class="container contact-grid">
-      <div>
-        <h2>Contact</h2>
-        <p class="contact-text">Email: <a href="mailto:chethumalli13@gmail.com">chethumalli13@gmail.com</a></p>
-        <p class="contact-text">Phone: <a href="tel:+919483606519">+91 9483606519</a></p>
-
-        <div style="margin-top:18px;">
-          <a class="btn-primary" href="mailto:chethumalli13@gmail.com">Email Me</a>
-          <a class="btn-outline" href="tel:+919483606519">Call</a>
-        </div>
-      </div>
-    </div>
-  </section>
-
-  <!-- FOOTER -->
-  <footer class="site-footer">
-    <div class="container footer-inner">
-      <div>© 2025 Chethan C Malli</div>
-      <div class="social-links">
-        <a class="btn-outline" href="https://github.com/Chethumalli" target="_blank">GitHub</a>
-        <a class="btn-outline" href="https://www.linkedin.com" target="_blank">LinkedIn</a>
-      </div>
-    </div>
-  </footer>
+    <footer class="footer">
+        <p>&copy; 2025 ClientX. All rights reserved</p>
+    </footer>
 
 </body>
 </html>
-
