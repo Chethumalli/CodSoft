@@ -5,7 +5,7 @@ A modern, responsive, and elegant personal portfolio + landing page built using 
 <p align="center"> <img src="/images/portfolio1.png"> <img src="/images/portfolio2.png">  </p>
 
 📸 Preview
-<p align="center"> <img src="/images/LANDPAGE1.png" width="80%" alt="Landing Page Hero"> <br><em>Hero section with transparent overlapping profile photo</em> </p> <p align="center"> <img src="/images/LANDPAGE2.png" width="80%" alt="Projects Section"> <br><em>Project cards with icons & grid layout</em> </p>
+<p align="center"> <img src="/images/LANDPAGE1.png" width="80%" alt="Landing Page Hero"> </p> <p align="center"> <img src="/images/LANDPAGE2.png" width="80%" alt="Projects Section"> </p>
 
 <h3><b>🎯 Features
 ✨ Stunning Landing Page</b></h3>
