@@ -14,15 +14,12 @@ This repository showcases **three core frontend tasks** developed using **HTML, 
 </p>
 
 <p align="center">
-  <img src="/images/LANDPAGE1.png" width="80%" alt="Landing Page Hero Section" />
+  <img src="/images/LANDPAGE1.png" width="45%" alt="Landing Page Hero Section" />
+  <img src="/images/LANDPAGE2.png" width="45%" alt="Landing Page Projects Section" />
 </p>
 
 <p align="center">
-  <img src="/images/LANDPAGE2.png" width="80%" alt="Landing Page Projects Section" />
-</p>
-
-<p align="center">
-  <img src="/images/simplecalci.png" width="50%" alt="simple calculator Hero Section" />
+  <img src="/images/simplecalci.png" width="50%" height="40%" alt="simple calculator Hero Section" />
 </p>
 
 
