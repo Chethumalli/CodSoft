@@ -1,104 +1,161 @@
-<h1 style="color-blue">🚀 Chethan C Malli — Portfolio & Landing Page</h1>
+# 🚀 Chethan C Malli — CODSOFT Web Development Internship
 
-A modern, responsive, and elegant personal portfolio + landing page built using HTML & CSS, showcasing my skills, projects, and experience as a Full Stack Developer & AI/ML Enthusiast.
+A **modern, responsive, and elegant web project collection** built as part of the  
+**CODSOFT Web Development Internship**.  
+This repository showcases **three core frontend tasks** developed using **HTML, CSS, and JavaScript**, focusing on clean UI, responsiveness, and usability.
 
-<p align="center"> <img src="/images/portfolio1.png"> <img src="/images/portfolio2.png">  </p>
+---
 
-📸 Preview
-<p align="center"> <img src="/images/LANDPAGE1.png" width="80%" alt="Landing Page Hero"> </p> <p align="center"> <img src="/images/LANDPAGE2.png" width="80%" alt="Projects Section"> </p>
+## 📸 Project Preview
 
-<h3><b>🎯 Features
-✨ Stunning Landing Page</b></h3>
+<p align="center">
+  <img src="/images/portfolio1.png" width="45%" />
+  <img src="/images/portfolio2.png" width="45%" />
+</p>
 
-✔ Large hero section with background image<br>
-✔ Overlapping transparent profile cutout<br>
-✔ Animated buttons (Hire Me / Resume)<br>
-✔ Key highlights<br>
+<p align="center">
+  <img src="/images/LANDPAGE1.png" width="80%" alt="Landing Page Hero Section" />
+</p>
 
-<h3><b>🎨 Beautiful Portfolio UI</b></h3>
+<p align="center">
+  <img src="/images/LANDPAGE2.png" width="80%" alt="Landing Page Projects Section" />
+</p>
 
-✔ Modern About Me section<br>
-✔ Skills grid (2-column layout)<br>
-✔ Projects with icons + GitHub/demo links<br>
-✔ Contact section with action buttons<br>
-✔ Footer with social links<br>
+<p align="center">
+  <img src="/images/simplecalci.png" width="80%" alt="simple calculator Hero Section" />
+</p>
 
-<h3><b>📱 Fully Responsive</b></h3>
 
-✔ Mobile-first layout<br>
-✔ Auto-adjusting grids<br>
-✔ Smooth content flow<br>
+---
 
-<h3><b>⚡ Optimized UI Elements</b></h3>
+## 🧠 Internship Overview
 
-✔ Shadowed cards<br>
-✔ Accent border highlights<br>
-✔ Hover animations<br>
-✔ Clean, modern color palette<br>
+This internship helped me strengthen my fundamentals in **frontend development** by building real-world projects.  
+I focused on:
+- Writing clean HTML structure  
+- Designing modern UI using CSS  
+- Creating responsive layouts  
+- Adding interactivity using JavaScript  
 
-<h3><b>🛠️ Tech Stack</b></h3>
-<p align="center"> <img src="https://skillicons.dev/icons?i=html,css,github" height="70"> </p>
+---
+
+## 📋 Tasks Completed
+
+### 🖼️ Task 1 – Personal Portfolio Website
+A clean and professional **personal portfolio website** showcasing my skills, projects, and contact details.
+
+**Highlights:**
+- Modern “About Me” section  
+- Skills grid layout  
+- Projects with links  
+- Contact & social links  
+
+📂 Folder: `TASK-1/ portfolio`
+
+---
+
+### 🏠 Task 2 – Landing Page
+A visually attractive **landing page** demonstrating layout design, spacing, alignment, and responsiveness using **HTML & CSS**.
+
+**Highlights:**
+- Large hero section  
+- Clean content sections  
+- Responsive design  
+- Call-to-action buttons  
+
+📂 Folder: `TASK-2/ landing page`
+
+---
+
+### 🔢 Task 3 – Simple Calculator
+An interactive **calculator application** built using **HTML, CSS, and JavaScript**, capable of performing basic arithmetic operations.
+
+**Highlights:**
+- User-friendly UI  
+- Button-based input  
+- Real-time calculations  
+
+📂 Folder: `TASK-3/ SIMPLE CALCULATOR`
+
+---
+
+## ✨ Key Features
+
+### 🎯 Stunning UI
+✔ Modern layout  
+✔ Clean typography  
+✔ Smooth hover effects  
+✔ Shadowed cards  
+
+### 📱 Fully Responsive
+✔ Mobile-first design  
+✔ Auto-adjusting grids  
+✔ Smooth content flow  
+
+### ⚡ Optimized Design
+✔ Clean color palette  
+✔ Reusable CSS  
+✔ Minimal & readable code  
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,github" height="70" />
+</p>
 
 | Technology | Purpose |
-|------------|---------|
-| HTML5 | Page structure |
-| CSS3 | Styling, animation, responsive layout |
-| Google Fonts (Poppins) | Typography |
-| Shields.io | Readme badges |
-| GitHub Pages / Vercel | Deployment |
+|----------|---------|
+| HTML5 | Structure |
+| CSS3 | Styling & responsiveness |
+| JavaScript | Interactivity |
+| Google Fonts | Typography |
+| GitHub | Version control |
+| GitHub Pages | Deployment |
 
-<h3><b>📁 Repository Structure</b></h3>
-<pre>
-/
-├── index.html          # Main landing page + portfolio
-├── style.css           # Complete styling file
-├── assets/             # Images (hero, cutout, project previews)
-│   ├── profile.png
-│   ├── hero-bg.jpg
-│   ├── preview-hero.png
-│   └── preview-projects.png
+---
+
+## 📁 Repository Structure
+
+CodSoft/
+├── TASK-1/ portfolio
+├── TASK-2/ landing page
+├── TASK-3/ SIMPLE CALCULATOR
+├── images/
 └── README.md
-</pre>
-<h3><b>🧩 Projects Included</b></h3>
 
-| Icon | Project | Link |
-|------|---------|------|
-| 🎨 | Portfolio Website | — |
-| 🧠 | Face Recognition Attendance System | https://github.com/Chethumalli/face-recognition-attendance-system |
-| 📱 | ClientX | https://clientx.tech |
-| 💼 | CodSoft Portfolio | https://github.com/Chethumalli/CodSoft |
 
-<b>📦 How to Run the Project</b>
-<b>1️⃣ Clone the repository</b>
-git clone https://github.com/Chethumalli/Codsoft.git
+---
 
-2️⃣ Navigate into the folder
-cd your-repo
+## ▶️ How to Run the Project
 
-3️⃣ Run the project
+1️⃣ **Clone the repository**
+```bash
+git clone https://github.com/Chethumalli/CodSoft.git
 
-Just open:
+2️⃣ Navigate to any task folder
 
-index.html
+cd TASK-1
 
-in any browser.
+3️⃣ Run
 
-<h3>👤 Author</h3>
+Open index.html in your browser
+
+👤 Author
+
 Chethan C Malli
-
 📍 India
-📧 chethumalli13@gmail.com
+📧 Email: chethumalli13@gmail.com
 
-📞 +91 9483606519
+📞 Phone: +91 9483606519
 🔗 GitHub: https://github.com/Chethumalli
 
-<p align="center"> <img src="https://img.shields.io/badge/BUILT%20WITH-LOVE ❤️-red?style=for-the-badge"> </p>
-
-<h3>⭐ Support the Project</h3>
+<p align="center"> <img src="https://img.shields.io/badge/BUILT%20WITH-LOVE ❤️-red?style=for-the-badge" /> </p>
+⭐ Support
 
 If you like this project:
+⭐ Star the repository
+🔁 Share it with others
 
-👉 Star the repository ⭐
-👉 Share it with friends
-
-Your support motivates me to build more cool projects!!!
+Your support motivates me to build more projects 🚀
