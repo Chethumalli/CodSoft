@@ -148,11 +148,7 @@ Chethan C Malli
 📞 Phone: +91 9483606519
 🔗 GitHub: https://github.com/Chethumalli
 
-<p align="center">
-  <a href="https://github.com/Chethumalli/CodSoft">
-    <img src="https://img.shields.io/badge/BUILT%20WITH-LOVE-red?style=for-the-badge" alt="BUILT WITH LOVE">
-  </a>
-</p>
+
 ⭐ Support
 
 If you like this project:
