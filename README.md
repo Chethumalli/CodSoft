@@ -4,7 +4,7 @@ A **modern, responsive, and elegant web project collection** built as part of th
 **CODSOFT Web Development Internship**.  
 This repository showcases **three core frontend tasks** developed using **HTML, CSS, and JavaScript**, focusing on clean UI, responsiveness, and usability.
 
----
+-----
 
 ## 📸 Project Preview
 
@@ -23,7 +23,7 @@ This repository showcases **three core frontend tasks** developed using **HTML, 
 </p>
 
 
----
+-----
 
 ## 🧠 Internship Overview
 
@@ -34,7 +34,7 @@ I focused on:
 - Creating responsive layouts  
 - Adding interactivity using JavaScript  
 
----
+-----
 
 ## 📋 Tasks Completed
 
@@ -49,7 +49,7 @@ A clean and professional **personal portfolio website** showcasing my skills, pr
 
 📂 Folder: `TASK-1/ portfolio`
 
----
+-----
 
 ### 🏠 Task 2 – Landing Page
 A visually attractive **landing page** demonstrating layout design, spacing, alignment, and responsiveness using **HTML & CSS**.
@@ -62,7 +62,7 @@ A visually attractive **landing page** demonstrating layout design, spacing, ali
 
 📂 Folder: `TASK-2/ landing page`
 
----
+-----
 
 ### 🔢 Task 3 – Simple Calculator
 An interactive **calculator application** built using **HTML, CSS, and JavaScript**, capable of performing basic arithmetic operations.
@@ -74,7 +74,7 @@ An interactive **calculator application** built using **HTML, CSS, and JavaScrip
 
 📂 Folder: `TASK-3/ SIMPLE CALCULATOR`
 
----
+------
 
 ## ✨ Key Features
 
@@ -94,7 +94,7 @@ An interactive **calculator application** built using **HTML, CSS, and JavaScrip
 ✔ Reusable CSS  
 ✔ Minimal & readable code  
 
----
+-----
 
 ## 🛠️ Tech Stack
 
@@ -111,7 +111,8 @@ An interactive **calculator application** built using **HTML, CSS, and JavaScrip
 | GitHub | Version control |
 | GitHub Pages | Deployment |
 </pre>
----
+
+-----
 
 ## 📁 Repository Structure
 <pre>
@@ -123,7 +124,7 @@ CodSoft/
 └── README.md
 </pre>
 
----
+-----
 
 ## ▶️ How to Run the Project
 
