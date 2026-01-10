@@ -1,4 +1,4 @@
-# 🚀 Chethan C Malli — CODSOFT Web Development Internship
+# 🚀 CODSOFT Web Development Internship
 
 A **modern, responsive, and elegant web project collection** built as part of the  
 **CODSOFT Web Development Internship**.  
