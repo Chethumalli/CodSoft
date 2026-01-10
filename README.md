@@ -140,7 +140,7 @@ cd TASK-1
 
 Open index.html in your browser
 
-👤 <b>Author</b>
+👤 Author
 
 Chethan C Malli
 📍 India
