@@ -51,7 +51,7 @@ A clean and professional **personal portfolio website** showcasing my skills, pr
 
 -----
 
-### 🏠 Task 2 – Landing Page
+## 🏠 Task 2 – Landing Page
 A visually attractive **landing page** demonstrating layout design, spacing, alignment, and responsiveness using **HTML & CSS**.
 
 **Highlights:**
@@ -64,7 +64,7 @@ A visually attractive **landing page** demonstrating layout design, spacing, ali
 
 -----
 
-### 🔢 Task 3 – Simple Calculator
+## 🔢 Task 3 – Simple Calculator
 An interactive **calculator application** built using **HTML, CSS, and JavaScript**, capable of performing basic arithmetic operations.
 
 **Highlights:**
