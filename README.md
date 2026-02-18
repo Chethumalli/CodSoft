@@ -84,12 +84,12 @@ An interactive **calculator application** built using **HTML, CSS, and JavaScrip
 ✔ Smooth hover effects  
 ✔ Shadowed cards  
 
-### 📱 Fully Responsive
+## 📱 Fully Responsive
 ✔ Mobile-first design  
 ✔ Auto-adjusting grids  
 ✔ Smooth content flow  
 
-### ⚡ Optimized Design
+## ⚡ Optimized Design
 ✔ Clean color palette  
 ✔ Reusable CSS  
 ✔ Minimal & readable code  
